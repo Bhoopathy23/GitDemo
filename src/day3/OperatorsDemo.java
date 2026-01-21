@@ -12,5 +12,10 @@ public class OperatorsDemo {
 		a++;
 		System.out.println(a);
 	}
+	int a =10;
+	for(int i=1;i<10;i++) {
+		System.out.println("Git push");
+	}
 
+}
 }
