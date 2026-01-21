@@ -15,7 +15,9 @@ public class OperatorsDemo {
 	int a =10;
 	for(int i=1;i<10;i++) {
 		System.out.println("Git push");
+        System.out.println("git Practise");
 	}
+    
 
 }
-}
+
