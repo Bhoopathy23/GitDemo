@@ -19,6 +19,25 @@ public class IfConcditionDemo {
 		}
 		
 		}
+	
+	//Code from Branch
+	
+	int person_age = 16;
+	
+	if(person_age>=18)
+	{
+		
+		System.out.println("Eligible for Vote");
+	}
+		
+	else
+	{
+		
+		System.out.println("Not Eligible for Vote");
+	}
+	
+	}
+
 
 	
 
